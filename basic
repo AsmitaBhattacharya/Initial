@@ -1,0 +1,14 @@
+
+
+//This is a basic java code.
+
+public class Initial{
+
+  public static void main(String args[]){
+  
+    System.out.println("hello world");
+    }
+  }
+  
+//end of the programming
+//thank you
